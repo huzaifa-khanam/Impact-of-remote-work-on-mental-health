@@ -50,3 +50,4 @@ Future Enhancements
 - Adding more data points and dimensions such as employee feedback or company support initiatives.
 - Incorporating trend analysis to study changes over time.
 
+![image alt](https://github.com/huzaifa-khanam/Impact-of-remote-work-on-mental-health/blob/main/Screenshot%20(382).png?raw=true)
